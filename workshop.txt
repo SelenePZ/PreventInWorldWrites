@@ -1,17 +1,22 @@
 version=1
 id=3121196793
 title=Prevent In-World Writes
-description=This mod forces players to pick up notebooks from the ground before writing to them, to circumvent a Project Zomboid saving bug.
+description=Due to a Project Zomboid bug, writing to a notebook on the floor will not save its content unless the notebook is picked up and placed back down.
 description=
-description=Due to a Project Zomboid bug, notebook content will not be saved unless the notebook is picked up and placed back down.
 description=This can lead to accidental loss of writings between server restarts when said writing is done without picking up the notebook first.
 description=
-description=This mod replaces the "Write on" option with a "Read" option if the notebook is on the ground, and adds an additional "Write on Notebook (Grab)" option that will first pick up the item and then open the writing window.
-description=
-description=[h1]Contact[/h1]
-description=
-description=[b]Website[/b]: https://mods.twelveiterations.com/
-description=[b]Discord[/b]: https://discord.gg/VAfZ2Nau6j
-description=[b]Patreon[/b]: https://www.patreon.com/BlayTheNinth
+description=This mod forces players to pick up notebooks from the ground before writing to them, by replacing the "Write on" option with a "Read" option if the notebook is on the ground, and adding an additional "Write on Notebook (Grab)" option that will first pick up the item and then open the writing window.
+description=
+
+description=[h1]Contact[/h1]
+
+description=
+
+description=[b]Website[/b]: https://mods.twelveiterations.com/
+
+description=[b]Discord[/b]: https://discord.gg/VAfZ2Nau6j
+
+description=[b]Patreon[/b]: https://www.patreon.com/BlayTheNinth
+
 tags=Build 41;Multiplayer
 visibility=public
