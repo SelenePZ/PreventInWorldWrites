@@ -1,0 +1,5 @@
+name=Prevent In-World Writes
+poster=poster.png
+id=PreventInWorldWrites
+description=Prevents players from writing directly to journals in world, to circumvent a PZ saving bug.
+url=https://mods.twelveiterations.com/pz
